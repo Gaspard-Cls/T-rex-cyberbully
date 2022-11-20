@@ -10,7 +10,7 @@ from selenium import webdriver
 import keyboard
 from time import sleep,monotonic
 
-USERNAME = "JeVousBez"
+USERNAME = "SryITooSmart"
 bullying_offset = 1
 
 driver = webdriver.Chrome()
