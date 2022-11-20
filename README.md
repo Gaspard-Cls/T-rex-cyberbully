@@ -1,6 +1,15 @@
 # T-rex-cyberbully
-Cyberbullies the kind trex-runner.com commuity
+Cyberbullies the kind trex-runner.com community
 
-You can change the USERNAME variable , this is the one that will be soon at the top of trex-runner.com leaderboard
+Requirements:
+-------------
+- `chromedriver.exe` in the same directory as the script or in your PATH
+- `pip install selenium keyboard`
 
-Don't forget to put selenium driver in the same directory as the script
+Configuration:
+--------------
+You can change the USERNAME variable, this is the one that will be soon at the top of trex-runner.com leaderboard
+
+Usage:
+------
+Just run `python main.py` and revel in the desperation of honest people.
